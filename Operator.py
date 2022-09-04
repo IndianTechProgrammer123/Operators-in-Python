@@ -1,20 +1,20 @@
 # Operators in Python
-# _________________________________
-#|____Operators____|____Outputs____|
-#|        +        |    2+3 = 5    |
-#|        -        |    2-3 = 1    |
-#|        *        |    2*3 = 6    | 
-#|       **        |    2**3 = 8   |
-#|        /        |    4/2 = 2.0  |
-#|       //        |    4//2 = 2   |
-#|        %        |    6%2 = 0    |
-#|_________________|_______________|
+# ______________________________________
+#|_____Operation_____|____Operators____|
+#|     Addition      |        +        |
+#|   Subtraction     |        -        |
+#|  Multiplication   |        *        |
+#|     Division      |        /        |
+#|     Exponent      |       **        |
+#|    Square Root    |       //        |
+#| Remainder(Modulo) |        %        |
+#|_____________________________________|
 
 # Output
 print(2+3)
 print(3-2)
 print(2*3)
-print(2**3)
 print(4/2)
-print(4//2)
-print(6%2)
+print(5**2)
+print(6//4)
+print(7%2)
